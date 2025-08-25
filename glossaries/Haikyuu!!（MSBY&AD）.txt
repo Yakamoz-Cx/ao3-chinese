@@ -1,0 +1,202 @@
+维护者：Yakamoz-Cx
+版本号：1.0.5
+更新时间：2025-08-25
+
+
+词条
+
+// 角色
+Miya Atsumu=宫 侑
+Sakusa Kiyoomi=佐久早 圣臣
+Miya Osamu=宫 治
+Suna Rintarou=角名 伦太郎
+Akaashi Keiji=赤苇 京治
+Bokuto Koutarou=木兔 光太郎
+Tendou Satori=天童 觉
+Ushijima Wakatoshi=牛岛 若利
+Hinata Shoyo=日向 翔阳
+Kageyama Tobio=影山 飞雄
+Kozume Kenma=孤爪 研磨
+Kuroo Tetsurou=黑尾 铁朗
+Inunaki Shion=犬鸣 sion
+Adriah Thomas= 阿德里亚 托马斯
+Meian Shuugo=明暗 修吾
+Hoshiumi Kourai=星海 光来
+Ojiro Aran=尾白 阿兰
+Kita Shinsuke=北 信介
+Oliver Barnes= 奥利弗 巴恩斯
+Samson Foster=萨姆森 福斯特
+Tsukasa Iizuna=饭纲 掌
+Motoya Komori=古森 元也
+Hirugami Fukuro=昼神 福郎
+Nicollas Romero= 尼古拉斯 罗梅罗
+Heiwajima Toshiro=平和岛 登志郎
+Sokolov Tatsuto=索科洛夫 尊人
+Suzaku Banjo=朱雀 万丈
+Iwaizumi Hajime=岩泉 一
+Oikawa Tooru=及川 彻
+Konoha Akinori=木叶秋纪
+Goshiki Tsutomu=五色 工
+Kiryu Wakatsu=桐生 八
+Hirugami Sachiro=昼神 幸郎
+
+// 称呼
+Miya：宫
+Sakusa：佐久早
+Suna：角名
+Akaashi：赤苇
+Bokuto：木兔
+Bokkun：阿木
+Tendou：天童
+Ushijima：牛岛
+Ushiwaka：牛若
+Hinata：日向
+Kageyama：影山
+Kozume：孤爪
+Kuroo：黑尾
+Shion：犬鸣sion
+Adriah：阿德里亚
+Meian：明暗
+Hoshiumi：星海
+Ojiro：尾白
+Kita：北
+Oliver：奥利弗
+Ollie：奥利
+Tsukasa：饭纲
+Motoya：古森
+Kei：月岛
+Tadashi：山口
+Hirugami ：昼神
+Nicollas：尼古拉斯
+Heiwajima：平和岛
+Sokolov：索科洛夫
+Suzaku：朱雀
+Iwaizumi：岩泉
+Iwa：小岩
+Oikawa：及川
+Konoha：木叶
+Goshiki：五色
+Kiryu：桐生
+Atsumu：侑
+Tsumu：侑
+sumu：阿侑
+Atsu：小侑
+Atsu-Atsu：侑侑
+Kiyoomi：圣臣
+omi：小臣
+Omi-Omi：臣臣
+Omi-kun：小臣
+Kiyo：圣臣
+Osamu：治
+samu：阿治
+Rintarou：伦太郎
+Rin：伦
+Keiji：京治
+Koutarou：光太郎
+Satori：觉
+Wakatoshi：若利
+Shoyo：翔阳
+Sho-kun：翔君
+chibi-chan：小不点
+Tobio：飞雄
+Kenma：研磨
+Tetsurou：铁朗
+Inunaki：犬鸣
+Wan-san：汪桑
+Thomas：托马斯
+Shuugo：修吾
+Shugo：修吾
+Kourai：光来
+Aran：阿兰
+Shinsuke：信介
+Barnes：巴恩斯
+Iizuna：掌
+Komori：元也
+Tsukishima：莹
+Yamaguchi：忠
+Foster：福斯特
+Fukuro：福郎
+Romero： 罗梅罗
+Toshiro：登志郎
+Tatsuto：尊人
+Hajime：一
+Tooru： 彻
+Akinori：秋纪
+Tsutomu：工
+Wakatsu： 八
+Sachiro：幸郎
+
+// 组织和地点
+Itachiyama Institute：井闼山学院
+Inarizaki High：稻荷崎高校
+Karasuno High：乌野高校
+Fukurdani Academy：枭谷学园
+Nekoma High：音驹高校
+Aoba Johsai High：青叶城西高校
+Shiratorizawa Academy：白鸟泽学园
+Kamomedai High：鸥台高校
+
+// 概念
+Haikyuu!!：排球
+Channel JACKAL：JACKAL 频道
+Black Jackals：黑狼
+Official MSBY Black Jackals：MSBY 黑狼队官方
+Schweiden Adlers：施耐登·阿德勒
+V-League：V 联赛
+V.League Division 1 team
+Serve：发球
+Spike：扣球
+Attack：扣球
+
+通用词条
+
+Jacksuke：黑狼助
+JACKALS：黑狼队
+OUTSIDE HITTER：主攻手
+Left-side Hitter：主攻手
+Middle Blocker：副攻手
+Setter：二传手
+Libero：自由人
+HITTER：攻手
+Opposite Hitter：接应
+Serve：发球
+SakuAtsu：佐久侑
+-san：桑
+-kun：君
+smash：心动
+
+禁翻词条
+
+MSBY
+AD
+@shoyotheninja
+@sakusa_official
+@tsumu_miya
+@BEAMWEAPON
+@cap_meian
+@THEkodzuken
+@KurooTet
+@komoreal
+@lorgeboibarnes
+@realinushi
+@actualadriah
+@kaaageyamaaa
+@ushiwaka
+@lilgianthoshi
+@fukuhiru
+@liljackalpup
+@adlerssss
+@MSBYJacksuke
+keiji.akaashi
+BEAM__WEAPON
+the_better_miya
+official_sakukiyo
+bar___nes
+inushi
+actualadriah
+meian._.cap
+.tetsuku.
+nin.ja.sho.yo
+the.superior.miya
+.kodzuken.
+yachi.B
